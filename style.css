@@ -1,0 +1,119 @@
+#divlogo {
+    display: flex;
+    justify-content: center;
+}
+
+#logo {
+    height: 50px;
+    margin-top: 10px;
+    max-width: 500px;
+}
+
+#divslogan {
+    background-color: #fdfbf1;
+    border-top: solid #ffd877;
+    padding-bottom: 5px;
+    margin-top: 20px;
+}
+
+#divslogan p {
+    color: #087878;
+    text-align: center;
+    font-family: Georgia;
+}
+
+.bold {
+    text-transform: uppercase;
+}
+
+#main_div {
+    width: 50%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #333333;
+    margin-top: 50px;
+    font-family: Georgia;
+}
+
+#divfocaccia p {
+    font-family: Georgia;
+    margin-top: 50px;
+}
+
+#divimgfocaccia {
+    background-image: url(Immagini/OPT__1.jpg);
+    background-repeat: no-repeat;
+    background-size: center;
+    background-position: center;
+    height: 450px;
+    border-radius: 20px;
+    margin: 0 auto;
+    box-shadow: 15px 10px 15px -3px rgba(0,0,0,0.1);
+}
+
+#sallyvegas {
+    color: grey;
+    font-family: Georgia;
+    text-align: center;
+    font-size: 15px;
+}
+
+#featuredin {
+    text-transform: uppercase;
+    color: #b5460f;
+    font-family: Georgia;
+    margin-bottom: 6px;
+    font-size: 16px;
+}
+
+#divfeaturedin {
+    border-left: solid #ffd877;
+    padding-left: 10px;
+}
+
+#divingredients {
+    font-family: Georgia;
+    color: #333333;
+    margin-top: 70px;
+}
+
+#ingredients {
+    border-bottom: #c4f3f2 solid;
+    border-width: 2px;
+    padding-bottom: 10px;
+}
+
+#forthefocaccia {
+    font-family: Georgia;
+    color: #333333;
+    margin-top: 20px;
+}
+
+#divmethod {
+    font-family: Georgia;
+    color: #333333;
+    margin-top: 30px;
+}
+
+#method {
+    border-bottom: #c4f3f2 solid;
+    border-width: 2px;
+    padding-bottom: 10px;
+}
+
+#makethefocaccia {
+    font-family: Georgia;
+    color: #333333;
+    margin-top: 20px;
+}
+
+#makethefocaccia p {
+    line-height: 1.5em;
+}
+
+ul {
+    line-height: 1.5em;
+}
